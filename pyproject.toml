@@ -1,0 +1,10 @@
+[project]
+name = "respect-bank-site"
+version = "0.1.0"
+description = "respectbank.groza.dev"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.6",
+]

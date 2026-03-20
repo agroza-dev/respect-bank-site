@@ -1,0 +1,13 @@
+site_name: Respect Bank
+
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Механики: mechanics.md
+  - Документация:
+      - Трансферы: docs/transfers.md
+      - Реакции: docs/reactions.md
+  - Обновления:
+      - 0.1: release-notes/0.1.md
