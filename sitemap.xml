@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://respectbank.groza.dev/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://respectbank.groza.dev/mechanics/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://respectbank.groza.dev/docs/reactions/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://respectbank.groza.dev/docs/transfers/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://respectbank.groza.dev/release-notes/0.1/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+</urlset>
