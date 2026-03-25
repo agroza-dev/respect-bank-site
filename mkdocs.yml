@@ -1,6 +1,5 @@
 site_name: Respect Bank
 site_url: https://respectbank.groza.dev/
-repo_url: https://github.com/agroza-dev/respect-bank-site
 
 theme:
   name: material
